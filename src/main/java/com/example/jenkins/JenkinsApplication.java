@@ -16,6 +16,6 @@ public class JenkinsApplication {
 
     @GetMapping("/")
     public String index(){
-        return "jenkins";
+        return "jenkins222";
     }
 }
